@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1768994464918",
+    "name": "HP Elite book 820 G4",
+    "price": 2800,
+    "image": "https://images.yaga.co.za/tvff3dp7628/cd0b12.jpeg?s=600",
+    "images": [
+      "https://images.yaga.co.za/tvff3dp7628/cd0b12.jpeg?s=600"
+    ],
+    "description": "7th gen Core i5 processor, 8GB RAM, 256GB ssd, battery needs replacement . Mint condition..",
+    "url": "https://www.yaga.co.za/maxd-3/product/tvff3dp7628?rank=5",
+    "category": "Laptops"
+  },
+  {
+    "id": "1768997443171",
+    "name": "Dell latitude E7450",
+    "price": 3200,
+    "image": "https://images.yaga.co.za/dg96dasiong/317a66.jpeg?s=600",
+    "images": [
+      "https://images.yaga.co.za/dg96dasiong/317a66.jpeg?s=600"
+    ],
+    "description": "core i7 , 5ft generation, 8gb ram and 128gb SSD, battery life is over 4 hours. Call or Whatsapp me on 073-188-3928",
+    "url": "https://www.yaga.co.za/maxd-3/product/dg96dasiong?rank=3",
+    "category": "Laptops"
+  },
+  {
+    "id": "1769014487368",
+    "name": "Yaga",
+    "price": 4000,
+    "image": "https://images.yaga.co.za/sms9f280a5/e7123e.jpeg?s=600",
+    "images": [
+      "https://images.yaga.co.za/sms9f280a5/e7123e.jpeg?s=600"
+    ],
+    "description": "CORE i5 MACBOOK PRO MID 2015  MODEL \n\nMACOS BIG SUR INSTALLED \n\n8GB RAM \n128SSD \n\n\n13INCH DISPLAY \nBACKLIGHT KEYBOARD \n\nMACOS BIG SUR \nMS OFFICE 2016\nVLC,EDGE BROWSER, CHROME BROWSER \nWIFI,WEBCAM, BLUETOOTH \n\nGOOD BATTERY LIFE \n\nBATTERY LIFE IS EXCELLENT \n\nCHARGER INCLUDED",
+    "url": "https://www.yaga.co.za/it-support-technologies/product/sms9f280a5",
+    "category": "Laptops"
+  },
+  {
+    "id": "1769014838604",
+    "name": "Yaga",
+    "price": 2800,
+    "image": "",
+    "images": [
+      "https://images.yaga.co.za/d7c743vda4o/a2e104.jpeg?s=600"
+    ],
+    "description": "Hp  Probook Corei 3\n6Gen\n8gig Ram\n256SSD \nComes with a charger \nBattery still excellent \nWindows 11\nWorks everything 100%",
+    "url": "https://www.yaga.co.za/perfeckabiti01-gmail-com/product/d7c743vda4o?rank=9",
+    "category": "Laptops"
+  },
+  {
+    "id": "1769082209521",
+    "name": "Lenovo IdeaPad 1 ",
+    "price": 4000,
+    "image": "https://images.yaga.co.za/e78r33prn9o/a868fd.jpeg",
+    "images": [
+      "https://images.yaga.co.za/e78r33prn9o/a868fd.jpeg",
+      "https://images.yaga.co.za/e78r33prn9o/e705b3.jpeg",
+      "https://images.yaga.co.za/e78r33prn9o/e59296.jpeg",
+      "https://images.yaga.co.za/e78r33prn9o/c1674e.jpeg",
+      "https://images.yaga.co.za/e78r33prn9o/911366.jpeg"
+    ],
+    "description": "8GB \n256GB SSD \n15.6\" \nNotebook - Grey",
+    "url": "https://www.yaga.co.za/dale-du-toit/product/e78r33prn9o?rank=12",
+    "category": "Laptops"
+  }
+]
